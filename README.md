@@ -1,5 +1,6 @@
 ## New Year Countdown
-[Live site url](https://new-year-count-down-app.netlify.app/)
+
+### [Live site url](https://new-year-count-down-app.netlify.app/)
 
 ### Desktop version
 
